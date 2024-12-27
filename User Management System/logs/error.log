@@ -1,0 +1,4 @@
+2024-12-27 13:55:53 [error]: Error: Invalid email and password, StatusCode: 401
+2024-12-27 13:57:44 [error]: Error: Not Allowed for this Role, StatusCode: 400
+2024-12-27 13:59:05 [error]: Error: Not Allowed for this Role, StatusCode: 400
+2024-12-27 13:59:18 [error]: Error: Not Allowed for this Role, StatusCode: 400

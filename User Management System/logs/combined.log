@@ -1,0 +1,54 @@
+2024-12-27 13:55:52 [info]: Login attempt for email: abhishek@gmail.com
+2024-12-27 13:55:52 [warn]: Login failed: Incorrect password for email - abhishek@gmail.com
+2024-12-27 13:55:53 [error]: Error: Invalid email and password, StatusCode: 401
+2024-12-27 13:56:12 [info]: Login attempt for email: abhishek@gmail.com
+2024-12-27 13:56:12 [info]: User logged in successfully with email: abhishek@gmail.com
+2024-12-27 13:56:12 [info]: Profile fetched successfully for User ID: 676e38b672bedb3710e5fcdc
+2024-12-27 13:56:12 [info]: Profile fetched successfully for User ID: 676e38b672bedb3710e5fcdc
+2024-12-27 13:56:27 [info]: Fetching all products
+2024-12-27 13:56:27 [info]: Fetched 5 products
+2024-12-27 13:56:27 [info]: Fetching all products
+2024-12-27 13:56:27 [info]: Fetched 5 products
+2024-12-27 13:57:08 [info]: Creating product: Iphone 15
+2024-12-27 13:57:08 [info]: Product created successfully: Iphone 15
+2024-12-27 13:57:08 [info]: Fetching all products
+2024-12-27 13:57:08 [info]: Fetched 6 products2024-12-27 13:57:20 [info]: Deleting product with ID: 676e64dcaa7fde98a832ff64
+2024-12-27 13:57:20 [info]: Product deleted successfully: 676e64dcaa7fde98a832ff64
+2024-12-27 13:57:20 [info]: Fetching all products
+2024-12-27 13:57:20 [info]: Fetched 5 products
+2024-12-27 13:57:26 [info]: Fetched 4 users
+2024-12-27 13:57:26 [info]: Fetched 4 users
+2024-12-27 13:57:44 [warn]: Access denied for User ID: 676e38b672bedb3710e5fcdc - Insufficient role
+2024-12-27 13:57:44 [error]: Error: Not Allowed for this Role, StatusCode: 400
+2024-12-27 13:58:55 [info]: Mongodb connected with server: 127.0.0.1
+2024-12-27 13:59:01 [info]: Mongodb connected with server: 127.0.0.1
+2024-12-27 13:59:05 [warn]: Access denied for User ID: 676e38b672bedb3710e5fcdc - Insufficient role
+2024-12-27 13:59:05 [error]: Error: Not Allowed for this Role, StatusCode: 400
+2024-12-27 13:59:09 [info]: Fetched 4 users
+2024-12-27 13:59:09 [info]: Fetched 4 users
+2024-12-27 13:59:18 [warn]: Access denied for User ID: 676e38b672bedb3710e5fcdc - Insufficient role
+2024-12-27 13:59:18 [error]: Error: Not Allowed for this Role, StatusCode: 400
+2024-12-27 13:59:38 [info]: Mongodb connected with server: 127.0.0.1
+2024-12-27 13:59:48 [info]: Mongodb connected with server: 127.0.0.1
+2024-12-27 13:59:49 [info]: Mongodb connected with server: 127.0.0.1
+2024-12-27 13:59:52 [info]: Mongodb connected with server: 127.0.0.1
+2024-12-27 13:59:57 [info]: User role updated successfully for User ID: 676e506e72bedb3710e5fd65
+2024-12-27 13:59:57 [info]: Fetched 4 users
+2024-12-27 14:00:09 [info]: Fetching all products
+2024-12-27 14:00:09 [info]: Fetched 5 products
+2024-12-27 14:00:09 [info]: Fetching all products
+2024-12-27 14:00:09 [info]: Fetched 5 products
+2024-12-27 14:00:23 [info]: Login attempt for email: anup@gmail.com
+2024-12-27 14:00:23 [info]: User logged in successfully with email: anup@gmail.com
+2024-12-27 14:00:24 [info]: Profile fetched successfully for User ID: 676e506e72bedb3710e5fd65
+2024-12-27 14:00:24 [info]: Profile fetched successfully for User ID: 676e506e72bedb3710e5fd65
+2024-12-27 14:00:26 [info]: Fetching all products
+2024-12-27 14:00:26 [info]: Fetched 5 products
+2024-12-27 14:00:26 [info]: Fetching all products
+2024-12-27 14:00:26 [info]: Fetched 5 products
+2024-12-27 14:00:32 [info]: Updating product with ID: 676e3a6472bedb3710e5fcf0
+2024-12-27 14:00:32 [info]: Product updated successfully: Running Shoes
+2024-12-27 14:00:32 [info]: Fetching all products
+2024-12-27 14:00:32 [info]: Fetched 5 products
+2024-12-27 14:01:20 [info]: Signup attempt for email: piyush@gmail.com
+2024-12-27 14:01:20 [info]: User successfully registered with email: piyush@gmail.com
